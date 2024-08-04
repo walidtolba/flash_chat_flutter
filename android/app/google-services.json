@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719300013007",
+    "project_id": "flash-chat-4d6ff",
+    "storage_bucket": "flash-chat-4d6ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719300013007:android:2c74d362fa1fa71de500ba",
+        "android_client_info": {
+          "package_name": "me.walidtolba.flashchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_4lRyAvZkb4iGK9TC3nam_A68tNxz1O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
